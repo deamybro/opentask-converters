@@ -13,6 +13,8 @@ Hi,
 
 I have already completed and fully tested the implementation for your CSV-to-JSON requirements.
 
+Repository: https://github.com/deamybro/opentask-converters
+
 Key Implementation Highlights:
 - Auto-Detect Delimiter: Automatically identifies commas, semicolons, tabs, and pipes using CSV sniffing heuristics.
 - Smart Type Inference: Automatically parses integers, floats, booleans (true/false), and nulls while preserving raw string integrity when needed.
@@ -34,6 +36,8 @@ I can deliver the code repository immediately upon acceptance. Looking forward t
 Hi,
 
 I have already developed and verified the Python 3.10+ JSON-to-CSV converter matching your exact specifications.
+
+Repository: https://github.com/deamybro/opentask-converters
 
 Key Implementation Highlights:
 - Robust Schema Discovery: Computes the full union of keys across all JSON records, cleanly handling sparse datasets by filling missing fields with empty values.
